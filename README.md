@@ -122,9 +122,7 @@ Data Structures • Algorithms • Software Engineering • Database Systems •
 ## 🚀 Featured Projects
 
 ### 🔥 Real-Time Collaborative Coding Environment
-<div align="center">
 <strong>Tech Stack:</strong> <code>Express.js</code> <code>Node.js</code> <code>React</code> <code>WebSocket</code> <code>MongoDB</code> <code>Yjs</code>
-</div>
 
 - 👥 Built MERN-based platform for **15+ concurrent users** to code collaboratively
 - ⚡ Implemented **WebSocket communication** with low-latency syntax highlighting
@@ -134,9 +132,7 @@ Data Structures • Algorithms • Software Engineering • Database Systems •
 ---
 
 ### 🛡️ Fraud Detection Web Application
-<div align="center">
 <strong>Tech Stack:</strong> <code>Java</code> <code>Spring Boot</code> <code>REST APIs</code> <code>Docker</code> <code>Docker Compose</code>
-</div>
 
 - 🔍 Developed real-time fraud detection processing **500+ transactions/min**
 - 🎯 Engineered rule-based detection engine with **85% accuracy** on synthetic datasets
